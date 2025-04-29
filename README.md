@@ -1,37 +1,23 @@
-# ALDA – Sistema Integrado de Saúde, Treinamento e Bem-Estar
+# Projeto ALDA
 
-Bem-vindo ao repositório do projeto **ALDA**, um sistema completo para gestão integrada de treinos, avaliações emocionais, automações e acompanhamento de evolução física.
+Bem-vindo ao repositório do ALDA!
 
-## Visão Geral
+Este projeto tem como objetivo desenvolver uma plataforma integrada focada em saúde física, emocional e desempenho, com aplicações práticas para treinos, avaliações, acompanhamento nutricional e psicológico.
 
-O sistema ALDA visa integrar dados de:
-- Treino personalizado
-- Avaliação emocional (POMS + BREQ-3)
-- Automação de rotinas (Google Forms, Sheets, Webhooks)
-- Visualização gráfica de progresso
+## Funcionalidades
+- Dashboard de Treinos
+- Módulo Nutricional
+- Avaliação Física
+- Triagem Emocional
+- Integrações com Apps de Saúde
 
-## Estrutura de Pastas
+## Tecnologias Utilizadas
+- Flutter / FlutterFlow
+- Firebase
+- GitHub
+- VS Code
 
-- `/scripts`: scripts utilitários (automação, importação, etc.)
-- `/planilhas`: modelos e arquivos de evolução em planilhas
-- `/automacoes`: fluxos Make, Atalhos iOS, Power Automate, etc.
-- `/docs`: documentação geral do sistema (diagramas, manuais)
-
-## Convenção de Commits
-
-Utilize a seguinte padronização:
-```
-[escopo] descrição breve
-```
-Exemplos:
-- `[core] inicia estrutura de pastas`
-- `[isaura] adiciona checklist emocional`
-- `[docs] atualiza README com visão geral`
-
-## Autor
-
-Cloves Nunes – @ClovesAlda
+## Status do Projeto
+🚀 Em desenvolvimento
 
 ---
-
-*Organização inicial do repositório conforme issue #3.*
