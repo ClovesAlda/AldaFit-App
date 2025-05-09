@@ -1,0 +1,29 @@
+/AldaFit
+├── /frontend
+│   ├── /lib
+│   │   ├── main.dart
+│   │   ├── /screens
+│   │   ├── /widgets
+│   │   └── /services
+│   ├── /assets
+│   │   ├── /images
+│   │   └── /fonts
+│   └── pubspec.yaml
+├── /backend
+│   ├── server.js
+│   ├── /routes
+│   ├── /controllers
+│   ├── /config
+│   └── package.json
+├── /database
+│   ├── init.sql
+│   └── firebaseConfig.js
+├── /automation
+│   ├── /Make
+│   │   ├── workflow1.json
+│   │   └── workflow2.json
+│   └── /scripts
+│       └── updateDB.js
+├── /docs
+│   └── README.md
+└── .gitignore
