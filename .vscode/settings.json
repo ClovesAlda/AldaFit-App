@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "onWindowChange",
+    "files.exclude": {
+        "": true
+    },
+    "python.testing.pytestArgs": [
+        "alda_fit"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
