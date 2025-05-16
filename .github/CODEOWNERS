@@ -1,0 +1,8 @@
+# Responsáveis gerais por todo o repositório
+* @ClovesAlda
+
+# Responsável pelo módulo financeiro
+/lib/modules/financeiro/ @ClovesAlda
+
+# Responsável pelo backend
+/api/ @ClovesAlda
