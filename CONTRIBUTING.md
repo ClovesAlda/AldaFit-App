@@ -10,4 +10,4 @@ Seja bem-vindo(a) ao projeto AldaFit! Antes de enviar uma contribuição, leia a
 
 ## Fluxo de Trabalho
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/ClovesAlda/AldaFit-App.git
