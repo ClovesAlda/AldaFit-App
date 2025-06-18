@@ -1,3 +1,7 @@
+---
+type: Checklist
+---
+
 # 🌐 IA_ROLES.md – Integração entre Inteligências Artificiais no AldaFit+
 
 Este documento define o papel de cada IA envolvida no desenvolvimento do **AldaFit-App**.
